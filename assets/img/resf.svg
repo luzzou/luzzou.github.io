@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Rotation equivariant spatial factorization abstract illustration">
+  <defs><linearGradient id="r" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#fff0e7"/><stop offset="1" stop-color="#f0eaff"/></linearGradient></defs>
+  <rect width="640" height="360" rx="28" fill="url(#r)"/>
+  <text x="48" y="62" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#673b75">RESF-Pose</text>
+  <text x="48" y="92" font-family="Arial,sans-serif" font-size="14" fill="#745c82">Rotation-equivariant and spatially factorized keypoints</text>
+  <g transform="translate(180 210)">
+    <ellipse rx="108" ry="64" fill="#fff" stroke="#9c74b2" stroke-width="4"/>
+    <g fill="#7f55a0"><circle cx="-75" cy="-12" r="8"/><circle cx="-42" cy="-42" r="8"/><circle cx="2" cy="-52" r="8"/><circle cx="46" cy="-35" r="8"/><circle cx="82" cy="-2" r="8"/><circle cx="46" cy="38" r="8"/><circle cx="0" cy="52" r="8"/><circle cx="-52" cy="34" r="8"/></g>
+    <path d="M-130-40a140 105 0 0 1 244-42" fill="none" stroke="#ed7d46" stroke-width="7" stroke-linecap="round"/>
+    <path d="M100-94l17 13-23 8" fill="none" stroke="#ed7d46" stroke-width="7"/>
+  </g>
+  <path d="M325 210H402" stroke="#8a8092" stroke-width="5"/><path d="M388 198l14 12-14 12" fill="none" stroke="#8a8092" stroke-width="5"/>
+  <g transform="translate(476 210)">
+    <rect x="-62" y="-62" width="124" height="124" rx="18" fill="#fff" stroke="#7862a2" stroke-width="4"/>
+    <path d="M-62 0H62M0-62V62" stroke="#c5b7d8" stroke-width="3"/>
+    <circle cx="-30" cy="-31" r="9" fill="#ed7d46"/><circle cx="31" cy="-28" r="9" fill="#7f55a0"/><circle cx="-28" cy="30" r="9" fill="#2f6feb"/><circle cx="30" cy="31" r="9" fill="#20a67a"/>
+  </g>
+</svg>

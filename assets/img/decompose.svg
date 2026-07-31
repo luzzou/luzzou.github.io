@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="DecomPose abstract illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#eef4ff"/><stop offset="1" stop-color="#dce9ff"/></linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity=".13"/></filter>
+  </defs>
+  <rect width="640" height="360" rx="28" fill="url(#bg)"/>
+  <text x="48" y="64" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#173b73">DecomPose</text>
+  <text x="48" y="94" font-family="Arial,sans-serif" font-size="14" fill="#48688f">Difficulty-aware cross-category decomposition</text>
+  <g filter="url(#s)">
+    <rect x="54" y="132" width="120" height="112" rx="16" fill="#fff"/>
+    <rect x="260" y="112" width="122" height="72" rx="16" fill="#fff"/>
+    <rect x="260" y="210" width="122" height="72" rx="16" fill="#fff"/>
+    <rect x="466" y="132" width="120" height="112" rx="16" fill="#fff"/>
+  </g>
+  <circle cx="92" cy="170" r="17" fill="#2f6feb"/><circle cx="136" cy="170" r="17" fill="#7aa7ff"/>
+  <circle cx="92" cy="212" r="17" fill="#20a67a"/><circle cx="136" cy="212" r="17" fill="#f1a548"/>
+  <path d="M174 188H240" stroke="#7a91ad" stroke-width="5" stroke-linecap="round"/><path d="M226 176l14 12-14 12" fill="none" stroke="#7a91ad" stroke-width="5"/>
+  <path d="M382 148H446M382 246H446" stroke="#7a91ad" stroke-width="5" stroke-linecap="round"/>
+  <path d="M432 136l14 12-14 12M432 234l14 12-14 12" fill="none" stroke="#7a91ad" stroke-width="5"/>
+  <text x="285" y="144" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#23549b">High-capacity</text>
+  <text x="286" y="242" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#16745a">Lightweight</text>
+  <path d="M500 171l24-20 25 19-10 31h-30z" fill="#2f6feb" opacity=".86"/>
+  <path d="M500 219l24-20 25 19-10 31h-30z" fill="#20a67a" opacity=".86"/>
+</svg>

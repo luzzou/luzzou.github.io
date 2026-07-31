@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Instance adaptive keypoint learning abstract illustration">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#edf8ff"/><stop offset="1" stop-color="#f2f6e8"/></linearGradient></defs>
+  <rect width="640" height="360" rx="28" fill="url(#g)"/>
+  <text x="48" y="62" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#244d70">INKL-Pose</text>
+  <text x="48" y="92" font-family="Arial,sans-serif" font-size="14" fill="#557188">Instance-adaptive keypoints with local-to-global aggregation</text>
+  <g transform="translate(205 215)">
+    <path d="M-115 35l26-105 84-31 94 38 26 100-64 56-112 0z" fill="#fff" stroke="#7aa2c2" stroke-width="4"/>
+    <g fill="#2f6feb"><circle cx="-86" cy="-31" r="8"/><circle cx="-43" cy="-72" r="8"/><circle cx="8" cy="-68" r="8"/><circle cx="62" cy="-36" r="8"/><circle cx="87" cy="19" r="8"/><circle cx="42" cy="63" r="8"/><circle cx="-18" cy="70" r="8"/><circle cx="-70" cy="40" r="8"/></g>
+    <g fill="none" stroke="#7eb99d" stroke-width="3"><circle cx="-86" cy="-31" r="20"/><circle cx="62" cy="-36" r="20"/><circle cx="42" cy="63" r="20"/></g>
+  </g>
+  <path d="M344 214H407" stroke="#7b91a5" stroke-width="5"/><path d="M393 202l14 12-14 12" fill="none" stroke="#7b91a5" stroke-width="5"/>
+  <g transform="translate(502 215)">
+    <circle r="75" fill="#fff" stroke="#7eb99d" stroke-width="4"/>
+    <g stroke="#a2b3b0" stroke-width="3"><path d="M-44-35L0-55l46 25 8 51-45 38-53-20z"/><path d="M-44-35L54 21M0-55L9 59M46-30L-44 39"/></g>
+    <g fill="#20a67a"><circle cx="-44" cy="-35" r="8"/><circle cy="-55" r="8"/><circle cx="46" cy="-30" r="8"/><circle cx="54" cy="21" r="8"/><circle cx="9" cy="59" r="8"/><circle cx="-44" cy="39" r="8"/></g>
+  </g>
+</svg>

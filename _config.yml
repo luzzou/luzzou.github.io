@@ -1,2 +1,6 @@
-theme: jekyll-theme-minimal
-image: https://github.com/luzzou/luzou.github.io/blob/main/photo.JPG
+title: Lu Zou | Academic Homepage
+description: Research in 3D vision, robot perception, human-centered vision, and multimodal intelligence.
+url: https://luzzou.github.io
+plugins: []
+exclude:
+  - README.md
